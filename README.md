@@ -1,7 +1,16 @@
-## Basic Python Libraries for Data Analysis
+
+## Python
 Once you have decided that Python is your language of choice for your data Analysis/Science project, download [Python](https://www.python.org/downloads) from its website. You can use the Integreted Development Learning Environment (IDLE) that comes with python but for easier learning experience, you can choose another IDE of your choice with a simple google search. Once your python is ready, you can pip install the library you want to use and start your data analysis project.
 
-Python libraries are code modules that are used in solving python problems. There are a number of libraries in Python for Data Analysts and Scientists alike; the most commonly used are; Pandas, Numpy, Matplotlib, Seaborn, Plotly, Altair, Scikit-learn, to mention but a few. Let's learn more about some of these libraries.
+## Basic Python Libraries
+Python libraries are code modules that are used in solving python problems. Depending on the project, there are a number of libraries in Python for Data Analysts and Scientists alike. These include:
+**Pandas**,
+**Numpy**,
+**Matplotlib**, 
+ **Seaborn**,
+ **Plotly**, 
+ **Altair**, 
+ **Scikit-learn**, etc.
 ## Steps in Using Python Libraries
 **1** Visit the website of your library of choice to get familiar with its documentation.
 
@@ -9,7 +18,7 @@ Python libraries are code modules that are used in solving python problems. Ther
 
 **3** Study how to use the library from from its website, google search, youtube video, chatgpt, deepseek and walaaaa! You can start solving problems.
 ## Pandas Library
-Python [Pandas](https://pandas.pydata.org/docs/index.html) is used for analysing structured or tabular data (data stored in rows and columns) popularly caalled ***dataframe***. You can learn more about about Pandas from its [website](https://pandas.pydata.org/docs/getting_started/index.html).
+Python [Pandas](https://pandas.pydata.org/docs/index.html) is used for analysing structured or tabular data (data stored in rows and columns) popularly called ***dataframe***. You can learn more about Pandas from its [website](https://pandas.pydata.org/docs/getting_started/index.html).
 ```Python
 # Install Pandas
 pip install pandas # for most IDEs
